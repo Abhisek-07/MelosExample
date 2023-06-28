@@ -1,0 +1,8 @@
+name: whitelabel_apps
+
+packages:
+  - packages/*
+
+scripts:
+  analyze:
+    exec: dart analyze .

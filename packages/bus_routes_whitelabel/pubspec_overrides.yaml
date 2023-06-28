@@ -1,0 +1,4 @@
+# melos_managed_dependency_overrides: bus_routes_app
+dependency_overrides:
+  bus_routes_app:
+    path: ../Bus_Routes_Modified
